@@ -38,7 +38,7 @@ Material Icons are applied to your application by adding this link to your `<hea
 Then it's used like this inside your components:
 
 ```html
-<span class="material-symbols-outlined"> play_arrow </span>
+<span className="material-symbols-outlined"> play_arrow </span>
 ```
 
 The "play-arrow" can of course be change to any other text belonging to an icon.
