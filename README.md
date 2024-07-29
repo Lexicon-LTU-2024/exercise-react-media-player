@@ -16,10 +16,12 @@ Use flexbox or grid for layout and material icons for icons. Colors, fonts and b
 
 ### Requirements
 
-- The application must be responsive.
 - At least one array with objects should be rendered with the `.map()` method.
 - Usage of TypeScript is mandatory.
 - At least eight different pieces of media content must be visible.
+
+### Bonus
+- Make the application responsive.
 
 ### Google fonts & Material Icons
 
@@ -33,7 +35,7 @@ Material Icons are applied to your application by adding this link to your `<hea
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
 ```
 
-Then it's use like this inside your components:
+Then it's used like this inside your components:
 
 ```html
 <span class="material-symbols-outlined"> play_arrow </span>
